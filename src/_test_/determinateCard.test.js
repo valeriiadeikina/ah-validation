@@ -1,4 +1,4 @@
-import { determinateCard } from "../js/determinateCard";
+import { determinateCard } from "../js/determinateCard.js";
 
 describe("Card Type", () => {
   test("Maestro card", () => {
