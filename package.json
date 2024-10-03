@@ -32,6 +32,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "core-js": "^3.38.1",
     "css-loader": "^7.1.2",
     "eslint-define-config": "^2.1.0",
     "html-loader": "^5.1.0",
