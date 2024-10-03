@@ -1,0 +1,19 @@
+SVG Image: MIR
+License: CC BY 4.0
+Author: [Имя автора]
+Link: https://svg-repo.com/svg/328097/mir
+
+SVG Image: Mastercard
+License: CC BY 4.0
+Author: [Имя автора]
+Link: https://www.svgrepo.com/svg/328093/mastercard
+
+SVG Image: Maestro
+License: CC BY 4.0
+Author: [Имя автора]
+Link: https://www.svgrepo.com/svg/328094/maestro
+
+SVG Image: Visa
+License: CC BY 4.0
+Author: [Имя автора]
+Link: https://www.svgrepo.com/svg/328104/visa

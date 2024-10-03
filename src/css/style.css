@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.img-container {
+  display: flex;
+  gap: 3px;
+}
+
+.img {
+  width: 50px;
+  filter: grayscale(100%);
+}
+
+.colored {
+  filter: unset;
+}
+
+.control {
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  margin-bottom: 5px;
+}
